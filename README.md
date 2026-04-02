@@ -1,6 +1,6 @@
 # Limonium Hydroponics Analysis
 
-This repository contains a private and ongoing analysis workflow for a hydroponic Limonium experiment. The project combines nutrient solution monitoring, plant measurements, and image-based phenotyping using Jupyter Notebook, Python, PlantCV, and R.
+This repository contains  analysis workflow for a hydroponic Limonium experiment. The project combines nutrient solution monitoring, plant measurements, and image-based phenotyping using Jupyter Notebook, Python, PlantCV, and R.
 
 ## Experiment Overview
 The experiment is conducted in a hydroponic house with four treatment sections:
